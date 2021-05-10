@@ -55,7 +55,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
                 tp.setCurrentHour(0);
                 tp.setCurrentMinute(0);
-                dp.updateDate(2020,0+1,01);
+                dp.updateDate(2020,0,01);
 
             }
         });
